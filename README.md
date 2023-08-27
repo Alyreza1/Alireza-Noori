@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Analyst  Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>This is my approach to setting up a fundamental home lab running Active Directory using Oracle VirtualBox. By adhering to these steps, you can establish your own basic home lab Active Directory setup.</b>
+  - [How-to-Setup-a-Basic-Home-Lab-Running-Active-Directory](https://github.com/Alyreza1/How-to-Setup-a-Basic-Home-Lab-Running-Active-Directory)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
