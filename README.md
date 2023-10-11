@@ -15,7 +15,7 @@
 
 <h2> Certification🔖 </h2>
 
-- [Google Cyber Security]
+- Google Cyber Security
 - [Analyze Network Traffic with TCP Dump]
 - [Cyber Risk Supervision By International Monetary Fund]
 - [The Complete SQL Bootcamp: Go from Zero to Hero]
