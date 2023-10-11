@@ -13,7 +13,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>How to analyze network traffic using Wireshark</b>
-  - [Wireshark: Understanding Network Traffic](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Wireshark: Understanding Network Traffic](https://github.com/Alyreza1/Analyze_Network_Traffic_Using_Wireshark/tree/main)
 
 <h2>📺 Popular YouTube Videos</h2>
 
