@@ -4,7 +4,7 @@
 
 - <b>This is my approach to setting up a fundamental home lab running Active Directory using Oracle VirtualBox. By adhering to these steps, you can establish your own basic home lab Active Directory setup.</b>
   - [How-to-Setup-a-Basic-Home-Lab-Running-Active-Directory](https://github.com/Alyreza1/How-to-Setup-a-Basic-Home-Lab-Running-Active-Directory)
-- <b>In this project, I'll assist you in creating a static website utilizing Amazon S3 In this tutorial, I will guide you through the process of creating a static website using AWS S3 bucket.)</b>
+- <b>In this project, I'll assist you in creating a static website utilizing Amazon S3 In this tutorial, I will guide you through the process of creating a static website using AWS S3 bucket.</b>
   - [Static Website Utilizing Amazon S3 ](https://github.com/Alyreza1/static_Website_S3_AWS.git) <b><i>(HTML files included)</b></i>
 - <b>How ARP Poisoning Works (Man-in-the-Middle Attack)</b>
   - [How ARP Poisoning Works (Man-in-the-Middle Attack)](https://github.com/Alyreza1/How_To_ARP_Poisoning#how_to_arp_poisoning)
