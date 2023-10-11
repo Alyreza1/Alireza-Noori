@@ -15,11 +15,11 @@
 
 <h2> Certification🔖 </h2>
 
-- [Google Cyber Security]()
-- [Analyze Network Traffic with TCP Dump]()
-- [Cyber Risk Supervision By International Monetary Fund]()
-- [The Complete SQL Bootcamp: Go from Zero to Hero]()
-- [Cloud Guru Solution Architect Associate AWS]()
+- [Google Cyber Security]
+- [Analyze Network Traffic with TCP Dump]
+- [Cyber Risk Supervision By International Monetary Fund]
+- [The Complete SQL Bootcamp: Go from Zero to Hero]
+- [Cloud Guru Solution Architect Associate AWS]
 
 <h2> 🤳 Connect with me:</h2>
 
